@@ -1,9 +1,9 @@
 ## Hi there 👋, its Oula !
-### I learn by building stuff
+
 <!--
 **oulaKhaled/oulaKhaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👋 Hi there, I'm Oula!
-
+### I learn by building stuff
 🎓 Computer Engineering Student | 💡 Machine Learning Enthusiast | 📱 Flutter Developer
 
 Here are some ideas to get you started:
